@@ -1,7 +1,7 @@
 //********************************************
-// Student Name			:  §dªl¿Î
-// Student ID			: 111652040
-// Student Email Address: jimmywu0229.sc11@nycu.edu.tw
+// Student Name			: Hsiu-I, Liao
+// Student ID			: 111652017
+// Student Email Address: abc0975773694@gmail.com
 //********************************************
 //
 // Instructor: Sai-Keung Wong
